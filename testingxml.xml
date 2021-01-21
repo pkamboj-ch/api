@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="API TEst" >
+    <test name="API1">
+      
+        <classes>   
+   
+           <!--    
+             <class name="com.ct.api.module1.tests.SampleTest">
+             <methods>
+             <include name="check200ResponseAllEmployescall"></include>
+             <include name="check200ResponseCreateEmployeePost"></include>
+             <include name="check200ResponseCreateEmployeePut"></include>
+             <include name="check200ResponseCreateEmployeeDelete"></include>
+             <include name="getSingleEmployeeDetail"></include>
+             </methods>
+             </class>
+             -->
+             
+        </classes>
+    </test>
+</suite>

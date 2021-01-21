@@ -1,0 +1,5 @@
+/employee     GET JSON http://dummy.restapiexample.com/api/v1/employees
+/employee/{id} GET JSON http://dummy.restapiexample.com/api/v1/employee/1
+/create         POST JSON http://dummy.restapiexample.com/api/v1/create
+/update/{id} PUT JSON http://dummy.restapiexample.com/api/v1/update/21
+/delete/{id} DELETE JSON http://dummy.restapiexample.com/api/v1/delete/2
